@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br>
 
 ## Description
-<!-- Employee tracker database created through mysql db and seeds to interact with your work staff. You can view all departments, roles, and employees in the command line. I learned how to properly relate foreign keys to communicate in the database. -->
+This is a command line application that uses ORMs for data manipulation and storage. Ecommerce is blowing up with the online industry and companies are always looking for a better way to store their product data safely. I learned how to successfully code different routes to retrieve different sets of data 
 
 ## Table of Contents
 - [Description](#description)
@@ -15,10 +15,10 @@
 - [Questions](#questions)
 
 ## Installation
-<!-- npm i then log into your mysql to source db/schema.sql and seeds.sql... after both those are done, you can run node index.js to start the command line application -->
+use insomnia to pull the GET/POST/PUT/DELETE routes
 
 ## Usage
-<!-- A command line application created to organize your work departments, employees, and roles! -->
+A command line application created to store your ecommerce products!
 
 <!-- ![note-taker](/Develop/public/assets/screenshot1.png?raw=true "Express Note Taker") -->
 
