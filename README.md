@@ -20,7 +20,7 @@ Use insomnia to pull the GET/POST/PUT/DELETE routes
 ## Usage
 An application created to store your ecommerce products using routes!
 
-![video-demo](https://drive.google.com/file/d/11ctRX1sPgpbwRNA7WMlLgsguWK6WZ24d/view "Video Walk Through")
+https://drive.google.com/file/d/11ctRX1sPgpbwRNA7WMlLgsguWK6WZ24d/view "Video Walk Through"
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
