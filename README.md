@@ -18,9 +18,9 @@ This is a command line application that uses ORMs for data manipulation and stor
 Use insomnia to pull the GET/POST/PUT/DELETE routes
 
 ## Usage
-A command line application created to store your ecommerce products!
+An application created to store your ecommerce products using routes!
 
-<!-- ![note-taker](/Develop/public/assets/screenshot1.png?raw=true "Express Note Taker") -->
+![video-demo](https://drive.google.com/file/d/11ctRX1sPgpbwRNA7WMlLgsguWK6WZ24d/view "Video Walk Through")
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
