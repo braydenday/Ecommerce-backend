@@ -15,7 +15,7 @@ This is a command line application that uses ORMs for data manipulation and stor
 - [Questions](#questions)
 
 ## Installation
-use insomnia to pull the GET/POST/PUT/DELETE routes
+Use insomnia to pull the GET/POST/PUT/DELETE routes
 
 ## Usage
 A command line application created to store your ecommerce products!
